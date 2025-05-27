@@ -1,0 +1,6 @@
+opencv-python
+face_recognition
+dlib
+numpy
+matplotlib
+git+https://github.com/ageitgey/face_recognition_models
